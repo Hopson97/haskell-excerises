@@ -1,2 +1,3 @@
 # haskell-excerises
-Bunch of haskell excerises from my uni
+Bunch of haskell exercises from my uni
+
